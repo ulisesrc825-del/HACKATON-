@@ -1,0 +1,8 @@
+{
+  "name": "OptiAlmacén ABC - Optimización Logística y Rutas de Despacho",
+  "description": "Sistema de ingeniería logística: layout y categorización ABC, optimización de rutas de picking, reingeniería de ventanilla con carril rápido, teoría de colas y análisis de costos/rotación.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

@@ -1,0 +1,15 @@
+Sistema local corregido
+
+Abre INICIAR.cmd en la carpeta del proyecto después de instalar las dependencias con npm ci.
+También puedes ejecutar npm run dev:full.
+Dirección: http://127.0.0.1:3000/
+
+Alumno          1323144021    Alumno2026!
+Docente         DOC-102       Docente2026!
+Técnico         TEC-014       Tecnico2026!
+Administrador   EMP-001       Admin2026!
+
+Para una base existente con las contraseñas de ejemplo, ejecuta npm run demo:credentials.
+MariaDB debe estar instalada o configurada según README.md.
+En este equipo ya se configuró una instalación portátil de MariaDB en AppData/Local/InventarioUPTex.
+Los datos se conservan en .local/mariadb y los tres servicios están activos.
